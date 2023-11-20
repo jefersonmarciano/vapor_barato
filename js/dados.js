@@ -205,21 +205,21 @@ var MENU = {
             "img": "./img/cardapio/pods/descartaveis/GTX Go 80 Red.webp",
             "name": "GTX Go 80 Red",
             "dsc": "GTX Go 80 Red",
-            "price": 90
+            "price": 80
         },
         {
             "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
             "img": "./img/cardapio/pods/descartaveis/GTX Go 80 back.webp",
             "name": "GTX Go 80 Back",
             "dsc": "GTX Go 80 Back",
-            "price": 90
+            "price": 80
         },
         {
             "id": "235203-blue-smoke-baby-back-ribs-backyard-barbecue-chicken-combo",
             "img": "./img/cardapio/pods/descartaveis/GTX Go 80 blue.webp",
             "name": "GTX Go 80 Bue",
             "dsc": "GTX Go 80 Blue",
-            "price": 90
+            "price": 80
         }
         
 
@@ -725,140 +725,140 @@ var MENU = {
             "img": "./img/cardapio/juice rusticos/Juice Rústico - Bahia.jpg",
             "name": "Rústico - Bahia",
             "dsc": "Rústico - Bahia",
-            "price": 40
+            "price": 120
         },
         {
             "id": "steaks-and-cakes-date-night-dinner-for-2",
             "img": "./img/cardapio/juice rusticos/Juice - Rustico - Capitão.webp",
             "name": "Rustico - Capitão",
             "dsc": "Rustico - Capitão",
-            "price": 40
+            "price": 120
         },
         {
             "id": "Prime-holiday-steak-sampler-for-10-12",
             "img": "./img/cardapio/juice rusticos/Rustico - Inglês.webp",
             "name": "Rustico - Inglês",
             "dsc": "Rustico - Inglês",
-            "price": 40
+            "price": 120
         },
         {
             "id": "bone-in-rib-steak",
             "img": "./img/cardapio/juice rusticos/Musla-scaled.webp",
             "name": "Rustico - Musla",
             "dsc": "Rustico - Musla",
-            "price": 40
+            "price": 120
         },
         {
             "id": "american-wagyu-gold-grade-top-sirloins",
             "img": "./img/cardapio/juice rusticos/paiero.webp",
             "name": "Rustico - Paiero",
             "dsc": "Rustico - Paiero",
-            "price": 40
+            "price": 120
         },
         {
             "id": "2-peter-lugr-steak-pack-b",
             "img": "./img/cardapio/juice rusticos/Rustico_Salem.webp",
             "name": "Rustico - Salem",
             "dsc": "Rustico - Salem",
-            "price": 40
+            "price": 120
         },
         {
             "id": "ribeye-prime-seak-gift-box",
             "img": "../img/cardapio/juice rusticos/Sirio-scaled.webp",
             "name": "Rustico - Sirio",
             "dsc": "Rustico - Sirio",
-            "price": 40
+            "price": 120
         },
         {
             "id": "dry-aged-usda-prie-black-angus-porterhouse-steak-2-pack",
             "img": "./img/cardapio/juice rusticos/Cacique-scaled.webp",
             "name": "Rustico - Cacique 9mg",
             "dsc": "Rustico - Cacique 9mg",
-            "price": 40
+            "price": 120
         },
         {
             "id": "california-resrve-ribeye-steak",
             "img": "./img/cardapio/juice rusticos/Lacreme-scaled.webp",
             "name": "Rustico - Lacreme 9mg",
             "dsc": "Rustico - Lacreme 9mg",
-            "price": 40
+            "price": 120
         },
         {
             "id": "dry-aged-boneless-ribeye-steak-dinner-ki-for-4",
             "img": "./img/cardapio/juice rusticos/Vaquero-scaled.webp",
             "name": "Rustico - Vaquero 9mg",
             "dsc": "Rustico - Vaquero 9mg",
-            "price": 40
+            "price": 120
         },
         {
             "id": "california-reserve-filet-mignon-steak",
             "img": "./img/cardapio/juice rusticos/ferrero.webp",
             "name": "Rustico - Ferrero 9mg",
             "dsc": "Rustico - Ferrero 9mg",
-            "price": 40
+            "price": 120
         },
         {
             "id": "california-reserve-filet-mignon-steaks-gift-bx",
             "img": "./img/cardapio/juice rusticos/Juice Rústico - Bahia.jpg",
             "name": "Rústico - Bahia 100ml 3mg",
             "dsc": "Rústico - Bahia 100ml 3mg",
-            "price": 140
+            "price": 120
         },
         {
             "id": "2-peter-luger-steak-pack-3",
             "img": "./img/cardapio/juice rusticos/Rustico_Salem.webp",
             "name": "Rustico - Salem 100ml 3mg",
             "dsc": "Rustico - Salem 100ml 3mg",
-            "price": 140
+            "price": 120
         },
         {
             "id": "jacques-world-famous-chocolate-chp-cookies-12-pack",
             "img": "./img/cardapio/juice rusticos/Guana-scaled.webp",
             "name": "Rustico - Guana 100ml 3mg",
             "dsc": "Rustico - Guana 100ml 3mg",
-            "price": 140
+            "price": 120
         },
         {
             "id": "jacques-world-famous-chocolate-chip-cookies-12-pack",
             "img": "./img/cardapio/juice rusticos/Rustico - Inglês.webp",
             "name": "Rustico - Inglês 100ml 3mg",
             "dsc": "Rustico - Inglês 100ml 3mg",
-            "price": 140
+            "price": 120
         },
         {
             "id": "jacques-world-famous-chocolate-chip-cookies-12-pac",
             "img": "./img/cardapio/juice rusticos/Virginian-scaled.webp",
             "name": "Rustico - Virginian 100ml 3mg",
             "dsc": "Rustico - Virginian 100ml 3mg",
-            "price": 140
+            "price": 120
         },
         {
             "id": "jjacques-world-famous-chocolate-chip-cookies-12-pack",
             "img": "./img/cardapio/juice rusticos/Lacreme-scaled.webp",
             "name": "Rustico - Lacreme 100ml 3mg",
             "dsc": "Rustico - Lacreme 100ml 3mg",
-            "price": 140
+            "price": 120
         },
         {
             "id": "djacques-world-famous-chocolate-chip-cokies-12-pack",
             "img": "./img/cardapio/juice rusticos/Vaquero-scaled.webp",
             "name": "Rustico - Vaquero 100ml 3mg",
             "dsc": "Rustico - Vaquero 100ml 3mg",
-            "price": 140
+            "price": 120
         },
         {
             "id": "cjacques-us-chocolate-chip-cookies-12-pack",
             "img": "./img/cardapio/juice rusticos/ferrero.webp",
             "name": "Rustico - Ferrero 100ml 3mg",
             "dsc": "Rustico - Ferrero 100ml 3mg",
-            "price": 140
+            "price": 120
         },
         {
             "id": "dryjacques-world-famok",
             "img": "./img/cardapio/juice rusticos/Cacique-scaled.webp",
             "name": "Rustico - Cacique 100ml 3mg",
             "dsc": "Rustico - Cacique 100ml 3mg",
-            "price": 140
+            "price": 120
         },
         {
             "id": "califojacques-world-famous-chocolate-chip-cookies-12-pack",
@@ -932,7 +932,7 @@ var MENU = {
             "img": "./img/cardapio/freebase/dinner-lady-lemon-tart-freebase-580x580.jpg",
             "name": "Dinner Lady Lemon Tart freebase",
             "dsc": "Dinner Lady Lemon Tart freebase",
-            "price": 110
+            "price": 50
         },
         {
             "id": "new-orleans-hurriasdsadcane-mix",
