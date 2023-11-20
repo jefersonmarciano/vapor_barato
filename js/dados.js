@@ -97,7 +97,7 @@ var MENU = {
             "img": "./img/cardapio/acessorios/Bateria LG 2 unidade chocolate.jpg",
             "name": "Bateria LG 2 unidade chocolate",
             "dsc": "Bateria LG 2 unidade chocolate",
-            "price": 120
+            "price": 90
         },
         {
             "id": "gotts-complete-cheeseburger-kit-for-7",
