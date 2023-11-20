@@ -101,6 +101,13 @@ var MENU = {
         },
         {
             "id": "gotts-complete-cheeseburger-kit-for-7",
+            "img": "./img/cardapio/acessorios/Molicel p42a 2 unidade.png",
+            "name": "Molicel p42a 1 unidade",
+            "dsc": "Molicel p42a 1 unidade",
+            "price": 80
+        },
+        {
+            "id": "gotts-complete-cheeseburger-kit-for-7",
             "img": "./img/cardapio/acessorios/Molicel p42a 1 unidade.webp",
             "name": "Molicel p42a 1 unidade",
             "dsc": "Molicel p42a 1 unidade",
@@ -108,10 +115,17 @@ var MENU = {
         },
         {
             "id": "gramercy-tavern-burger-kielbasa-combo",
+            "img": "./img/cardapio/acessorios/Bateria molicel p28a 1uni.jpg",
+            "name": "Bateria molicel p28a 1 unidade",
+            "dsc": "Bateria molicel p28a 1 unidade",
+            "price": 65
+        },
+        {
+            "id": "gramercy-tavern-burger-kielbasa-combo",
             "img": "./img/cardapio/acessorios/Bateria molicel p28a 2unidade.webp",
-            "name": "Gramercy Tavern",
-            "dsc": "Gramercy Tavern Burger + Kielbasa Combo",
-            "price": 150
+            "name": "Bateria molicel p28a 2 unidade",
+            "dsc": "Bateria molicel p28a 2 unidade",
+            "price": 120
         },
         {
             "id": "the-gramercy-tavern-burger-4-pack58",
