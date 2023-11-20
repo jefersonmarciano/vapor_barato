@@ -104,14 +104,14 @@ var MENU = {
             "img": "./img/cardapio/acessorios/Molicel p42a 1 unidade.webp",
             "name": "Molicel p42a 1 unidade",
             "dsc": "Molicel p42a 1 unidade",
-            "price": 120
+            "price": 80
         },
         {
             "id": "gramercy-tavern-burger-kielbasa-combo",
             "img": "./img/cardapio/acessorios/Bateria molicel p28a 2unidade.webp",
             "name": "Gramercy Tavern",
             "dsc": "Gramercy Tavern Burger + Kielbasa Combo",
-            "price": 80
+            "price": 150
         },
         {
             "id": "the-gramercy-tavern-burger-4-pack58",
