@@ -41,21 +41,21 @@ var MENU = {
             "img": "./img/cardapio/pods/descartaveis/GTX Go 80 Red.webp",
             "name": "GTX Go 80 Red",
             "dsc": "GTX Go 80 Red",
-            "price": 80
+            "price": 90
         },
         {
             "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
             "img": "./img/cardapio/pods/descartaveis/GTX Go 80 back.webp",
             "name": "GTX Go 80 Back",
             "dsc": "GTX Go 80 Back",
-            "price": 80
+            "price": 90
         },
         {
             "id": "235203-blue-smoke-baby-back-ribs-backyard-barbecue-chicken-combo",
             "img": "./img/cardapio/pods/descartaveis/GTX Go 80 blue.webp",
             "name": "GTX Go 80 Bue",
             "dsc": "GTX Go 80 Blue",
-            "price": 80
+            "price": 90
         },
         {
             "id": "21-usda-prime-burgers-pack-of-18-8oz-each",
