@@ -123,8 +123,8 @@ var MENU = {
         {
             "id": "gramercy-tavern-burger-kielbasa-combo",
             "img": "./img/cardapio/acessorios/Bateria molicel p28a 2unidade.webp",
-            "name": "Bateria molicel p28a 2 unidade",
-            "dsc": "Bateria molicel p28a 2 unidade",
+            "name": "Molicel p28a 2 unidade",
+            "dsc": "Molicel p28a 2 unidade",
             "price": 120
         },
         {
