@@ -111,7 +111,7 @@ var MENU = {
             "img": "./img/cardapio/acessorios/Bateria molicel p28a 2unidade.webp",
             "name": "Gramercy Tavern",
             "dsc": "Gramercy Tavern Burger + Kielbasa Combo",
-            "price": 149
+            "price": 80
         },
         {
             "id": "the-gramercy-tavern-burger-4-pack58",
