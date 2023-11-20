@@ -386,112 +386,112 @@ var MENU = {
             "img": "./img/cardapio/descartaveis/Banana Ice Ignite v50.png",
             "name": "Banana Ice Ignite v50",
             "dsc": "Banana Ice Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack24",
             "img": "./img/cardapio/descartaveis/Blueberry ice Ignite v50.jpg",
             "name": "Blueberry ice Ignite v50",
             "dsc": "Blueberry ice Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack25",
             "img": "./img/cardapio/descartaveis/Blue cotton candy Ignite v50.webp",
             "name": "Blue cotton candy Ignite v50",
             "dsc": "Blue cotton candy Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack26",
             "img": "./img/cardapio/descartaveis/Watermelon mix Ignite v50.jpg",
             "name": "Watermelon mix Ignite v50",
             "dsc": "Watermelon mix Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack27",
             "img": "./img/cardapio/descartaveis/Grape Ice Ignite v50.webp",
             "name": "Grape Ice Ignite v50",
             "dsc": "Grape Ice Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack28",
             "img": "./img/cardapio/descartaveis/Green APPLE Ignite v50.webp",
             "name": "Green APPLE Ignite v50",
             "dsc": "Green APPLE Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack29",
             "img": "./img/cardapio/descartaveis/Icy mint Ignite v50.jpg",
             "name": "Icy mint Ignite v50",
             "dsc": "Icy mint Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack30",
             "img": "./img/cardapio/descartaveis/Strawberry kiwi Ignite v50.webp",
             "name": "Strawberry kiwi Ignite v50",
             "dsc": "Strawberry kiwi Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack31",
             "img": "./img/cardapio/descartaveis/Mixed berries Ignite v50.png",
             "name": "Mixed berries Ignite v50",
             "dsc": "Mixed berries Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack32",
             "img": "./img/cardapio/descartaveis/Peach mango Watermelon Ignite v50.webp",
             "name": "Peach mango Watermelon Ignite v50",
             "dsc": "Peach mango Watermelon Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack33",
             "img": "./img/cardapio/descartaveis/Strawberry banana Ignite v50.png",
             "name": "Strawberry banana Ignite v50",
             "dsc": "Strawberry banana Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack34",
             "img": "./img/cardapio/descartaveis/Strawberry Watermelon Ignite v50.webp",
             "name": "Strawberry Watermelon Ignite v50",
             "dsc": "Strawberry Watermelon Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack35",
             "img": "./img/cardapio/descartaveis/Strawberry ManGo Ignite v50.webp",
             "name": "Strawberry ManGo Ignite v50",
             "dsc": "Strawberry ManGo Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack36",
             "img": "./img/cardapio/descartaveis/Watermelon bubblegum Ignite v50.jpg",
             "name": "Watermelon bubblegum Ignite v50",
             "dsc": "Watermelon bubblegum Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack37",
             "img": "./img/cardapio/descartaveis/Watermelon Ice Ignite v50.jpg",
             "name": "Watermelon Ice Ignite v50",
             "dsc": "Watermelon Ice Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack38",
             "img": "./img/cardapio/descartaveis/MENTHOL Ignite v50.webp",
             "name": "MENTHOL Ignite v50",
             "dsc": "MENTHOL Ignite v50",
-            "price": 65
+            "price": 90
             },
             {
             "id": "17481-jewish-dessert-3-pack39",
