@@ -104,7 +104,7 @@ var MENU = {
             "img": "./img/cardapio/acessorios/Molicel p42a 2 unidade.png",
             "name": "Molicel p42a 2 unidade",
             "dsc": "Molicel p42a 2 unidade",
-            "price": 120
+            "price": 150
         },
         {
             "id": "gotts-complete-cheeseburger-kit-for-7",
