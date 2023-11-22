@@ -71,62 +71,7 @@ var MENU = {
             "dsc": "FATT RABBIT BLACK",
             "price": 235
         },
-        {
-            "id": "goldbelly-burger-bash-pack",
-            "img": "./img/cardapio/acessorios/carregador vapcell q2s USB-C.webp",
-            "name": "Carregador Vapcell q2s USB-C",
-            "dsc": "Carregador Vapcell q2s USB-C",
-            "price": 60
-        },
-        {
-            "id": "burger-au-poivre-kit-4-pack",
-            "img": "./img/cardapio/acessorios/Carregador nitecore um4.webp",
-            "name": "Carregador nitecore um4",
-            "dsc": "Carregador nitecore um4",
-            "price": 175
-        },
-        {
-            "id": "goldbelly-burger-blend-4-lbs",
-            "img": "./img/cardapio/acessorios/Bateria LG chocolate.jpg",
-            "name": "Bateria LG 1 unidade chocolate",
-            "dsc": "Bateria LG 1 unidade chocolate",
-            "price": 45
-        },
-        {
-            "id": "gotts-complete-cheeseburger-kit-for-8",
-            "img": "./img/cardapio/acessorios/Bateria LG 2 unidade chocolate.jpg",
-            "name": "Bateria LG 2 unidade chocolate",
-            "dsc": "Bateria LG 2 unidade chocolate",
-            "price": 90
-        },
-        {
-            "id": "gotts-complete-cheeseburger-kit-for-7",
-            "img": "./img/cardapio/acessorios/Molicel p42a 2 unidade.png",
-            "name": "Molicel p42a 2 unidade",
-            "dsc": "Molicel p42a 2 unidade",
-            "price": 150
-        },
-        {
-            "id": "gotts-complete-cheeseburger-kit-for-7",
-            "img": "./img/cardapio/acessorios/Molicel p42a 1 unidade.webp",
-            "name": "Molicel p42a 1 unidade",
-            "dsc": "Molicel p42a 1 unidade",
-            "price": 80
-        },
-        {
-            "id": "gramercy-tavern-burger-kielbasa-combo",
-            "img": "./img/cardapio/acessorios/Bateria molicel p28a 1uni.jpg",
-            "name": "Bateria molicel p28a 1 unidade",
-            "dsc": "Bateria molicel p28a 1 unidade",
-            "price": 65
-        },
-        {
-            "id": "gramercy-tavern-burger-kielbasa-combo",
-            "img": "./img/cardapio/acessorios/Bateria molicel p28a 2unidade.webp",
-            "name": "Molicel p28a 2 unidade",
-            "dsc": "Molicel p28a 2 unidade",
-            "price": 120
-        },
+        
         {
             "id": "the-gramercy-tavern-burger-4-pack58",
             "img": "./img/cardapio/coil/Staple staggered fused Clapton o par.webp",
@@ -197,13 +142,7 @@ var MENU = {
             "dsc": "Rabbit m",
             "price": 60
             },
-            {
-            "id": "the-gramercy-tavern-burger-4-pack68",
-            "img": "./img/cardapio/coil/Wrap 21700 e 18650.jpg",
-            "name": "Wrap 21700 e 18650",
-            "dsc": "Wrap 21700 e 18650",
-            "price": 4
-            }
+            
     ],
 
     "pods": [
@@ -1766,13 +1705,70 @@ var MENU = {
            
     ],
 
-    "promocoes": [
+    "acessorios": [
         {
             "id": "the-gramercy-tavern-burger-4-pack",
             "img": "./img/cardapio/acessorios/CUBA ULTRASONICA WOTOFO.jpg",
             "name": "CUBA ULTRASONICA WOTOFO",
             "dsc": "CUBA ULTRASONICA WOTOFO",
             "price": 225
+            },
+            
+            {
+                "id": "goldbelly-burger-bash-pack",
+                "img": "./img/cardapio/acessorios/carregador vapcell q2s USB-C.webp",
+                "name": "Carregador Vapcell q2s USB-C",
+                "dsc": "Carregador Vapcell q2s USB-C",
+                "price": 60
+            },
+            {
+                "id": "burger-au-poivre-kit-4-pack",
+                "img": "./img/cardapio/acessorios/Carregador nitecore um4.webp",
+                "name": "Carregador nitecore um4",
+                "dsc": "Carregador nitecore um4",
+                "price": 175
+            },
+            {
+                "id": "goldbelly-burger-blend-4-lbs",
+                "img": "./img/cardapio/acessorios/Bateria LG chocolate.jpg",
+                "name": "Bateria LG 1 unidade chocolate",
+                "dsc": "Bateria LG 1 unidade chocolate",
+                "price": 45
+            },
+            {
+                "id": "gotts-complete-cheeseburger-kit-for-8",
+                "img": "./img/cardapio/acessorios/Bateria LG 2 unidade chocolate.jpg",
+                "name": "Bateria LG 2 unidade chocolate",
+                "dsc": "Bateria LG 2 unidade chocolate",
+                "price": 90
+            },
+            {
+                "id": "gotts-complete-cheeseburger-kit-for-7",
+                "img": "./img/cardapio/acessorios/Molicel p42a 2 unidade.png",
+                "name": "Molicel p42a 2 unidade",
+                "dsc": "Molicel p42a 2 unidade",
+                "price": 150
+            },
+            {
+                "id": "gotts-complete-cheeseburger-kit-for-78",
+                "img": "./img/cardapio/acessorios/Molicel p42a 1 unidade.webp",
+                "name": "Molicel p42a 1 unidade",
+                "dsc": "Molicel p42a 1 unidade",
+                "price": 80
+            },
+            {
+                "id": "gramercy-tavern-burger-kielbasa-combo",
+                "img": "./img/cardapio/acessorios/Bateria molicel p28a 1uni.jpg",
+                "name": "Bateria molicel p28a 1 unidade",
+                "dsc": "Bateria molicel p28a 1 unidade",
+                "price": 65
+            },
+            {
+                "id": "gramercy-tavern-burger-kielbasa-combo1",
+                "img": "./img/cardapio/acessorios/Bateria molicel p28a 2unidade.webp",
+                "name": "Molicel p28a 2 unidade",
+                "dsc": "Molicel p28a 2 unidade",
+                "price": 120
             },
             {
             "id": "the-gramercy-tavern-burger-4-pack1",
@@ -2032,7 +2028,14 @@ var MENU = {
             "name": "Mesh clapton profile x e rdta ",
             "dsc": "Mesh clapton profile x e rdta ",
             "price": 60
-            }
+            },
+            {
+                "id": "the-gramercy-tavern-burger-4-pack68",
+                "img": "./img/cardapio/coil/Wrap 21700 e 18650.jpg",
+                "name": "Wrap 21700 e 18650",
+                "dsc": "Wrap 21700 e 18650",
+                "price": 4
+                },
     ],
     "encomendas": [
 
