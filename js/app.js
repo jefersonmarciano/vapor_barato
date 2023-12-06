@@ -8,7 +8,7 @@ let MEU_CARRINHO = [];
 let MEU_ENDERECO = null;
 
 let VALOR_CARRINHO = 0;
-let VALOR_ENTREGA = 0.055;
+let VALOR_ENTREGA = 5.5/100;
 
 let CELULAR_EMPRESA = '5511983810940';
 
@@ -43,7 +43,7 @@ cardapio.metodos = {
             .replace(/\${id}/g, e.id)
 
             // botão ver mais foi clicado (12 itens)
-            if (vermais && i >= 8 && i < 5000) {
+            if (vermais && i >= 8 && i < 4900) {
                 $("#itensCardapio").append(temp)
             }
 
