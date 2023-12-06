@@ -43,7 +43,7 @@ cardapio.metodos = {
             .replace(/\${id}/g, e.id)
 
             // botão ver mais foi clicado (12 itens)
-            if (vermais && i >= 8 && i < 150) {
+            if (vermais && i >= 8 && i < 5000) {
                 $("#itensCardapio").append(temp)
             }
 
