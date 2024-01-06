@@ -12,6 +12,13 @@ let VALOR_ENTREGA = 5.5/100;
 
 let CELULAR_EMPRESA = '5511983810940';
 
+
+
+function abrirDuasOpcoes(tipo) {
+    cardapio.metodos.obterItensCardapio(tipo);
+    cardapio.metodos.obterItensCardapio(tipo);
+}
+
 cardapio.eventos = {
 
     init: () => {

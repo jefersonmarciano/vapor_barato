@@ -15,6 +15,8 @@
 
     </head>
 
+    
+
     <body>
         
         <div class="container-mensagens" id="container-mensagens">
@@ -165,8 +167,8 @@
                         <h1 class="title">
                             <b>Conheça o nosso Produto</b>
                         </h1>
-                    </div>
-                    
+                    </div>          
+ 
                     <div class="col-12 col-one container-menu wow fadeInUp mx-auto text-center">
                         <a id="menu-mods" class="btn btn-white btn-sm mr-3 active" onclick="cardapio.metodos.obterItensCardapio('mods')">
                             <img src="./img/vape.png" alt="Ícone" width="35" ></i>&nbsp; Mod e Atty
@@ -186,12 +188,13 @@
                         <a id="menu-acessorios" class="btn btn-white btn-sm mr-3" onclick="cardapio.metodos.obterItensCardapio('acessorios')">
                             <img src="./img/prop.png" alt="Ícone" width="39"></i>&nbsp; Acessórios
                         </a>
-                        <a id="menu-encomendas" class="btn btn-white btn-sm mr-3" onclick="cardapio.metodos.obterItensCardapio('encomendas')">
-                            <img src="./img/carrinho.png" alt="Ícone" width="48"></i>&nbsp; Só por Encomendas
+                        <a id="menu-encomendas" class="btn btn-white btn-sm mr-3" href="https://docs.google.com/spreadsheets/d/1O63zxABmAfIXqUEOslGzKyaYeDbNCmVYyZrwxRQ3Biw/edit?usp=sharing" target="_blank" onclick="abrirDuasOpcoes('encomendas')">
+                            <img src="./img/carrinho.png" alt="Ícone" width="48">&nbsp; Só por Encomendas
                         </a>
                         
                     </div>
-
+                    
+                    
                     <div class="col-12 col-one">
                         <div class="row" id="itensCardapio">
 
@@ -545,7 +548,7 @@
 
         </div>
 
-
+        <script type="text/javascript" src="./js/pesquisa.js"></script>
         <script type="text/javascript" src="./js/jquery-1.12.4.min.js"></script>
         <script type="text/javascript" src="./js/modernizr-3.5.0.min.js"></script>
         <script type="text/javascript" src="./js/bootstrap.min.js"></script>
