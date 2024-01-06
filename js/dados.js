@@ -63,85 +63,8 @@ var MENU = {
             "name": "Blotto 1.5 Black",
             "dsc": "Blotto 1.5 Black",
             "price": 205
-        },
-        {
-            "id": "double-stack-burger-kit-for-4",
-            "img": "./img/cardapio/atomizadores/FATT RABBIT BLACK.jpg",
-            "name": "FATT RABBIT BLACK",
-            "dsc": "FATT RABBIT BLACK",
-            "price": 235
-        },
+        }
         
-        {
-            "id": "the-gramercy-tavern-burger-4-pack58",
-            "img": "./img/cardapio/coil/Staple staggered fused Clapton o par.webp",
-            "name": "Staple staggered fused Clapton o par",
-            "dsc": "Staple staggered fused Clapton o par",
-            "price": 35
-            },
-            {
-            "id": "the-gramercy-tavern-burger-4-pack59",
-            "img": "./img/cardapio/coil/Fused Clapton Quadcore.jpg",
-            "name": "Fused Clapton Quadcore",
-            "dsc": "Fused Clapton Quadcore",
-            "price": 35
-            },
-            {
-            "id": "the-gramercy-tavern-burger-4-pack60",
-            "img": "./img/cardapio/coil/Fralien o par.jpg",
-            "name": "Fralien o par",
-            "dsc": "Fralien o par",
-            "price": 30
-            },
-            {
-            "id": "the-gramercy-tavern-burger-4-pack61",
-            "img": "./img/cardapio/coil/Tricore o par.jpg",
-            "name": "Tricore o par",
-            "dsc": "Tricore o par",
-            "price": 25
-            },
-            {
-            "id": "the-gramercy-tavern-burger-4-pack62",
-            "img": "./img/cardapio/coil/Fused.jpg",
-            "name": "Fused o par",
-            "dsc": "Fused o par",
-            "price": 40
-            },
-            {
-            "id": "the-gramercy-tavern-burger-4-pack63",
-            "img": "./img/cardapio/coil/Alien mtl o par.jpg",
-            "name": "Alien mtl o par",
-            "dsc": "Alien mtl o par",
-            "price": 35
-            },
-            {
-            "id": "the-gramercy-tavern-burger-4-pack64",
-            "img": "./img/cardapio/coil/Fused mtl o par.jpg",
-            "name": "Fused mtl o par",
-            "dsc": "Fused mtl o par",
-            "price": 20
-            },
-            {
-            "id": "the-gramercy-tavern-burger-4-pack65",
-            "img": "./img/cardapio/coil/Clapton mesh profile m.jpg",
-            "name": "Clapton mesh profile m com 5uni",
-            "dsc": "Clapton mesh profile m com 5uni",
-            "price": 60
-            },
-            {
-            "id": "the-gramercy-tavern-burger-4-pack66",
-            "img": "./img/cardapio/coil/Clapton mesh profile m  kylin pró.webp",
-            "name": " kylin pró",
-            "dsc": " kylin pró",
-            "price": 60
-            },
-            {
-            "id": "the-gramercy-tavern-burger-4-pack67",
-            "img": "./img/cardapio/coil/Clapton mesh dead Rabbit m.webp",
-            "name": "Rabbit m",
-            "dsc": "Rabbit m",
-            "price": 60
-            },
             
     ],
 
@@ -1705,8 +1628,85 @@ var MENU = {
            
     ],
 
-    "encomendas": 
-    
+    "acessorios":    
 [
+    {
+        "id": "double-stack-burger-kit-for-4",
+        "img": "./img/cardapio/atomizadores/FATT RABBIT BLACK.jpg",
+        "name": "FATT RABBIT BLACK",
+        "dsc": "FATT RABBIT BLACK",
+        "price": 235
+    },
+    
+    {
+        "id": "the-gramercy-tavern-burger-4-pack58",
+        "img": "./img/cardapio/coil/Staple staggered fused Clapton o par.webp",
+        "name": "Staple staggered fused Clapton o par",
+        "dsc": "Staple staggered fused Clapton o par",
+        "price": 35
+        },
+        {
+        "id": "the-gramercy-tavern-burger-4-pack59",
+        "img": "./img/cardapio/coil/Fused Clapton Quadcore.jpg",
+        "name": "Fused Clapton Quadcore",
+        "dsc": "Fused Clapton Quadcore",
+        "price": 35
+        },
+        {
+        "id": "the-gramercy-tavern-burger-4-pack60",
+        "img": "./img/cardapio/coil/Fralien o par.jpg",
+        "name": "Fralien o par",
+        "dsc": "Fralien o par",
+        "price": 30
+        },
+        {
+        "id": "the-gramercy-tavern-burger-4-pack61",
+        "img": "./img/cardapio/coil/Tricore o par.jpg",
+        "name": "Tricore o par",
+        "dsc": "Tricore o par",
+        "price": 25
+        },
+        {
+        "id": "the-gramercy-tavern-burger-4-pack62",
+        "img": "./img/cardapio/coil/Fused.jpg",
+        "name": "Fused o par",
+        "dsc": "Fused o par",
+        "price": 40
+        },
+        {
+        "id": "the-gramercy-tavern-burger-4-pack63",
+        "img": "./img/cardapio/coil/Alien mtl o par.jpg",
+        "name": "Alien mtl o par",
+        "dsc": "Alien mtl o par",
+        "price": 35
+        },
+        {
+        "id": "the-gramercy-tavern-burger-4-pack64",
+        "img": "./img/cardapio/coil/Fused mtl o par.jpg",
+        "name": "Fused mtl o par",
+        "dsc": "Fused mtl o par",
+        "price": 20
+        },
+        {
+        "id": "the-gramercy-tavern-burger-4-pack65",
+        "img": "./img/cardapio/coil/Clapton mesh profile m.jpg",
+        "name": "Clapton mesh profile m com 5uni",
+        "dsc": "Clapton mesh profile m com 5uni",
+        "price": 60
+        },
+        {
+        "id": "the-gramercy-tavern-burger-4-pack66",
+        "img": "./img/cardapio/coil/Clapton mesh profile m  kylin pró.webp",
+        "name": " kylin pró",
+        "dsc": " kylin pró",
+        "price": 60
+        },
+        {
+        "id": "the-gramercy-tavern-burger-4-pack67",
+        "img": "./img/cardapio/coil/Clapton mesh dead Rabbit m.webp",
+        "name": "Rabbit m",
+        "dsc": "Rabbit m",
+        "price": 60
+        },
 ]
 }
