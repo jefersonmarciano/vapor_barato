@@ -1,13 +1,13 @@
 var MENU = {
 
     "mods": [
-        // {
-        //     "id": "the-gramercy-tavern-burger-4-pack",
-        //     "img": "./img/cardapio/pods/descartaveis/SMOK SCAR MINI KIT Black.png",
-        //     "name": "SMOK SCAR MINI KIT Black",
-        //     "dsc": "SMOK SCAR MINI KIT Black",
-        //     "price": 200
-        // },
+        {
+            "id": "the-gramercy-tavern-burger-4-pack",
+            "img": "./img/cardapio/pods/descartaveis/SMOK SCAR MINI KIT Black.png",
+            "name": "SMOK SCAR MINI KIT Black",
+            "dsc": "SMOK SCAR MINI KIT Black",
+            "price": 200
+        },
         {
             "id": "shake-shack-shackburger-8-pack",
             "img": "./img/cardapio/pods/descartaveis/SMOK FORTIS KIT black.jpg",
