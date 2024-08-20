@@ -1630,13 +1630,14 @@ var MENU = {
 
     "acessorios":    
 [
-    {
-        "id": "double-stack-burger-kit-for-4",
-        "img": "./img/cardapio/atomizadores/FATT RABBIT BLACK.jpg",
-        "name": "FATT RABBIT BLACK",
-        "dsc": "FATT RABBIT BLACK",
-        "price": 235
-    },
+    // {
+    //     "id": "double-stack-burger-kit-for-4",
+    //     "img": "./img/cardapio/atomizadores/FATT RABBIT BLACK.jpg",
+    //     "name": "FATT RABBIT BLACK",
+    //     "dsc": "FATT RABBIT BLACK",
+    //     "price": 235
+    // },
+    
     
     {
         "id": "the-gramercy-tavern-burger-4-pack58",
